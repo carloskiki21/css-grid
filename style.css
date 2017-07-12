@@ -1,0 +1,19 @@
+body {
+	padding: 5px;
+}
+
+.container {
+    height: 100%;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.item {
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	background: lightskyblue;
+	border-radius: 5px;
+}
